@@ -2,7 +2,7 @@
 //  ARSolarSystemUITests.swift
 //  ARSolarSystemUITests
 //
-//  Created by Nilaakash Singh on 07/12/20.
+//  Created by Alogorist on 07/12/20.
 //
 
 import XCTest
